@@ -219,18 +219,7 @@ export const collabApps = [
 
 
 export const pricing = [
-  {
-    id: "0",
-    title: "Aman Singh",
-    description: "Co-Founder",
-   
-    email:"1803singh.aman@gmail.com",
-    features: [
-      "A Merchant Navy cadet pursuing a BSc in Nautical Science at Indian Maritime University",
-      "Transforming ideas into reality with strategic vision and dedication",
-      "Building a business foundation on persistence and determination",
-    ],
-  },
+  
   {
     id: "1",
     title: "Tejas Abhuday Pandey",
@@ -241,6 +230,18 @@ export const pricing = [
       "B.Tech Student pursuing a degree in AI and ML with good and consistent grades at Manipal Institute of Technology.",
       "A budding and hardworking Entrepreneur.",
       "Would give it all that I got to achieve my goals.",
+    ],
+  },
+  {
+    id: "0",
+    title: "Aman Singh",
+    description: "Co-Founder",
+   
+    email:"1803singh.aman@gmail.com",
+    features: [
+      "A Merchant Navy cadet pursuing a BSc in Nautical Science at Indian Maritime University",
+      "Transforming ideas into reality with strategic vision and dedication",
+      "Building a business foundation on persistence and determination",
     ],
   },
   {
