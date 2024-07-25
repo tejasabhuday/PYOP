@@ -39,7 +39,7 @@ const Hero = () => {
             Unleash the power of Planning and Hosting an event with PYOP. Upgrade your productivity
             and be the Ultimate Organizer today.
           </p>
-          <Button href="/features#features" white>
+          <Button href="#features" white>
             Get started
           </Button>
         </div>
