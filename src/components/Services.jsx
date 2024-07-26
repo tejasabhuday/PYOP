@@ -35,9 +35,10 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">Fastest Planner
               </h4>
-              <p className="body-2 mb-[3rem] text-n-3">
-             Plan and host your events with the help of best in the game vendors.
-              </p>
+              <p className="body-2 mb-[3rem] text-n-3 text-white">
+  Plan and host your events with the help of best in the game vendors.
+</p>
+
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (
                   <li
