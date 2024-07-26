@@ -227,7 +227,7 @@ export const pricing = [
     
     email:"tejasabhuday@gmail.com",
     features: [
-      "B.Tech Student pursuing a degree in AI and ML with good and consistent grades at Manipal Institute of Technology.",
+      "Ever felt like hosting or planning a party was difficult we are here to fix that it's time to get started.",
       "A budding and hardworking Entrepreneur.",
       "Would give it all that I got to achieve my goals.",
     ],
@@ -239,7 +239,7 @@ export const pricing = [
    
     email:"1803singh.aman@gmail.com",
     features: [
-      "A Merchant Navy cadet pursuing a BSc in Nautical Science at Indian Maritime University",
+      "Ever felt like selling tickets from person to person is a lot of work well not anymore.",
       "Transforming ideas into reality with strategic vision and dedication",
       "Building a business foundation on persistence and determination",
     ],
@@ -266,7 +266,6 @@ export const benefits = [
     title: "Host your own events",
     text: "Pyop empowers users to effortlessly organize and host diverse events such as music shows, book readings, and open mics, facilitating seamless event management from planning to execution and selling you very own tickets.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
-    iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
@@ -274,7 +273,6 @@ export const benefits = [
     title: "Discover Artists",
     text: "Pyop simplifies discovering emerging and established artists across diverse creative fields, making it easy to find new talents and explore innovative voices in music, visual arts, and more.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
-    iconUrl: benefitIcon2,
     imageUrl: benefitImage3,
     light: true,
   },
@@ -283,7 +281,6 @@ export const benefits = [
     title: "Plan your parties",
     text: "With Pyop, effortlessly plan your perfect party, streamlining every detail from guest lists to decorations, ensuring a memorable event without the stress.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
-    iconUrl: benefitIcon3,
     imageUrl: benefitImage4,
   },
   {
@@ -291,7 +288,6 @@ export const benefits = [
     title: "Find Vendors",
     text: "Pyop simplifies finding party vendors by connecting users with top-notch services and suppliers for their events, ensuring effortless and efficient planning for any occasion.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
-    iconUrl: benefitIcon4,
     imageUrl: benefitImage5,
     light: true,
   },
@@ -300,7 +296,6 @@ export const benefits = [
     title: "Explore & Plan HouseParties",
     text: "Pyop simplifies the process of exploring and planning house parties, ensuring every gathering is perfectly organised and memorable.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
-    iconUrl: benefitIcon1,
     imageUrl: benefitImage6,
   },
   {
@@ -308,7 +303,6 @@ export const benefits = [
     title: "Explore Nightlife",
     text: "Pyop makes discovering nearby nightlife effortless, guiding you to vibrant venues and events with ease.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
-    iconUrl: benefitIcon2,
     imageUrl: benefitImage7,
     light: true,
   },
