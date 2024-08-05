@@ -7,7 +7,6 @@ import Hero from "./components/hero";
 import Pricing from "./components/Pricing";
 import Roadmap from "./components/Roadmap";
 import Services from "./components/Services";
-
 const App = () => {
   return (
     <>
