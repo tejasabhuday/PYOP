@@ -2,7 +2,7 @@ import React from 'react';
 import styled, { keyframes } from 'styled-components';
 import { brainwaveSymbol, check } from "../assets";
 import { collabApps, collabContent, collabText } from "../constants";
-import Button from "./button";
+
 import Section from "./Section";
 
 // Define keyframes for rotation
@@ -24,9 +24,8 @@ const RotateContainer = styled.div`
 
 const RotateItem = styled.div`
   animation: ${rotate} 60s linear infinite reverse; /* Slower rotation */
-  position: relative;
-  left: 5px; /* Adjust this value to shift icons to the right */
-  top: 5px; /* Adjust this value to shift icons downward */
+  left: 10px; /* Adjust this value to shift icons to the right */
+  top: 15px; /* Adjust this value to shift icons downward */
 `;
 
 // Main component

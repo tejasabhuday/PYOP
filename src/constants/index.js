@@ -246,10 +246,11 @@ export const pricing = [
   },
   {
     id: "2",
-    title: "And Many More",
-    description: "A team of hardworking people are working together to help make this dream turn into a reality.",
+    title: "Aryan Arvind Singh",
+    description: "Co-Founder",
+          
     
-    email:"pyop.india@gmail.com",
+    email:"aryan010420@gmail.com",
     features: [
       "We are dedicated and focused to make a change.",
       "We wanna make it easy and accesible for everyone to celebrate even their smallest achievements.",
