@@ -70,7 +70,7 @@ const Services = () => {
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
                 <h4 className="h4 mb-4">Party Planning</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                PYOP lets you explore your city's events and nightlife right from the comfort of your hero.
+                PYOP takes the hassle out of event planning by offering direct access to venues and vendors
                 </p>
               </div>
 
@@ -84,7 +84,7 @@ const Services = () => {
                 <p className="body-2 mb-[2rem] text-n-3">
                 
                 
-                PYOP lets you explore your city's events and nightlife right from the comfort of your hero.
+                PYOP lets you explore your city's events and nightlife right from the comfort of your home.
                 </p>
 
                 <ul className="flex items-center justify-between">
