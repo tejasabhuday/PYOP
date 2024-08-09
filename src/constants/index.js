@@ -189,7 +189,7 @@ export const collabApps = [
     icon: photoshop,
     width: 34,
     height: 34,
-    link: "https://www.adobe.com/products/photoshop.html",
+    link: "http://www.linkedin.com/in/pyop-india-b5a14931a",
   },
   {
     id: "5",
@@ -197,7 +197,7 @@ export const collabApps = [
     icon: protopie,
     width: 34,
     height: 34,
-    link: "https://www.protopie.io",
+    link: "https://www.youtube.com/channel/UCdCJV2QVBlXHxrdclChoqdQ",
   },
   {
     id: "6",
@@ -205,15 +205,16 @@ export const collabApps = [
     icon: framer,
     width: 26,
     height: 34,
-    link: "https://www.framer.com",
-  },
+    link: "tel:9953276611",  
+},
+
   {
     id: "7",
     title: "Raindrop",
     icon: raindrop,
     width: 38,
     height: 32,
-    link: "https://raindrop.io",
+    link: "https://discord.gg/kUWqTphUxH",
   },
 ];
 
